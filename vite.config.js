@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base:"/JuntingSu.github.io/",
+  base:"/JuntingSu.github.io/docs/",
   build:{
     outDir:"docs"
   },
